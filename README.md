@@ -1,4 +1,4 @@
-AMAZON
+_**AMAZON**_
 Category: Software Test Automation
 
 Skills Required:
@@ -79,4 +79,4 @@ Create the Project folder which contains files as shown below:
 
 
 
-
+![testcase2](https://github.com/smartinternz02/SI-GuidedProject-704811-1706009731/assets/140964836/4e9c3cbe-6262-44d9-8a1c-5adc3827588f)
